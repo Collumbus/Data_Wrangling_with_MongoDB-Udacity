@@ -33,6 +33,6 @@ def test():
 
     assert d[0] == firstline
     assert d[9] == tenthline
-
+    print "Well done!"
 
 test()
